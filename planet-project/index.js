@@ -28,4 +28,3 @@ fs.createReadStream('kepler_data.csv')
         return planet['kepler_name']
     }));
 });
-//parse();
